@@ -1,2 +1,2 @@
 # apna_project
-this is project realted to mnagement 
+this is project related to management 
